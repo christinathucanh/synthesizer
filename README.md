@@ -6,6 +6,6 @@ The project focused on the use of vectors (data structure) and recursion (algori
 
 Please download the extension Scamper on VS Code to run this file. Thank you! <br>
 
-Author: Anh Thuc (Christina) Vu<br>
-Date: 2022-11-11 <br>
-Acknowledgements: Dieu Anh (Audrey) Trinh <br>
+Author: Anh Thuc (Christina) Vu.<br>
+Date: 2022-11-11. <br>
+Acknowledgements: Dieu Anh (Audrey) Trinh. <br>
